@@ -29,6 +29,11 @@ Scripts de MATLAB de las ocho visualizaciones del canal de ThingSpeak (Sección 
 Capturas de pantalla e imágenes originales en alta resolución empleadas a lo largo de la memoria.
 
 ---
+## 📁 `/grafcets`
+
+Archivo con los grafcets realizados a lo largo de la memoria en el Capitulo 7.
+
+---
 
 ## Datos del proyecto
 
